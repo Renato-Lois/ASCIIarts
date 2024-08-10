@@ -16,6 +16,8 @@ To view the ASCII Art Gallery:
 
    ```bash
   git clone https://github.com/Renato-Lois/ASCIIarts.git
-  cd ASCIIarts
+   ```bash
+  cd ASCIIarts/
+   ```bash
   firefox ASCIIarts.html
   
